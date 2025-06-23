@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Fahri" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Fahri" alt="Typing SVG" />
 </p>
 
+<p align="center"><b>I'm an enthusiastic junior web developer from Medan, Indonesia, eager to grow and explore the world of web development.</b></p>
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
