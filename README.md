@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Fahri 👋</h1>
 
-<p align="center">I'm a passionate Web Developer based in Medan, Indonesia</p>
+<p align="center">I am an enthusiastic junior web developer from Medan, Indonesia, looking to grow and explore the world of web development.</p>
 
 ---
 
