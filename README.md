@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Muhammad Fahri 👋</h1>
-
-<p align="center">I am an enthusiastic junior web developer from Medan, Indonesia, looking to grow and explore the world of web development.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Fahri" alt="Typing SVG" />
+</p>
 
 ---
 
